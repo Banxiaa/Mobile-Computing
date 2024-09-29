@@ -8,4 +8,4 @@ A2:Java + Node.js OR C# + Unity3D
 A3:Yes, I want to explore cross-platform development.
 
 ### Q4:Include a brief explanation for your selections
-A4:I am not sure what mobile app I want to develop. If I tried to build a common app, I will choose Java, as I am learing it and I think Java + Node.js is a perfect choice for cross-platform development. But if I choose to build a mobile game, I will choose C# and Unity3D.
+A4:I am not sure what I want to develop. If I tried to build a common app, I will choose Java, as I am learing it and I think Java + Node.js is a perfect choice for cross-platform development. But if I choose to build a mobile game, I will choose C# and Unity3D.
